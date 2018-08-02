@@ -1,0 +1,29 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'forest-4_mesh_0003.obj'
+
+# Vertices (Count = 8)
+v -7.36 -0.32 0
+v -7.68 -0.32 0
+v -7.68 0 0
+v -7.36 0 0
+v -7.36 -6.4 0
+v -7.68 -6.4 0
+v -7.68 -6.08 0
+v -7.36 -6.08 0
+
+# Texture cooridinates (Count = 4)
+vt 0 0.4
+vt 0.25 0.4
+vt 0.25 0.6
+vt 0 0.6
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g forest-4_mesh_0003
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/1/1 6/2/1 7/3/1 8/4/1
+
